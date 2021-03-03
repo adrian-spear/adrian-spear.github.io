@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "22b6b947-4e6e-4123-93e8-3c7aa833f3b1",
+    "Title": "Playlist A",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "aba5effa-ee49-44dd-a622-61dec391f803",
+    "AudienceId": "f56fe42c-ffea-41ab-9746-9d9747a531e2",
+    "TechnologyId": "94e7b4cd-fc11-4c16-ab8d-7ec1b3924244",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "25e951b6-0569-4614-8624-ee452c162076",
+    "Description": "PlayList A Description",
+    "StatusTagId": "55e653e5-56b1-4c51-bfdb-b4f8ef0928e0",
+    "StatusNote": "",
+    "Assets": [
+      "f3cf204f-6386-46be-8f37-d247e31c53aa"
+    ]
+  }
+]

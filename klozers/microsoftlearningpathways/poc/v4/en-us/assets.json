@@ -1,0 +1,13 @@
+[
+  {
+    "Id": "f3cf204f-6386-46be-8f37-d247e31c53aa",
+    "Title": "Asset A",
+    "Description": "Asset A Description",
+    "Url": "https://support.office.com/en-us/client/get-inspired-with-sharepoint-17688238-3285-47cf-b8c7-cba3764acbdf?embed=true",
+    "TechnologyId": "94e7b4cd-fc11-4c16-ab8d-7ec1b3924244",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "55e653e5-56b1-4c51-bfdb-b4f8ef0928e0",
+    "StatusNote": ""
+  }
+]
