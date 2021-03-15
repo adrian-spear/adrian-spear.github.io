@@ -236,6 +236,198 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "f4052160-8cb6-47ea-81bd-9a6d5cb44519",
+      "Name": "Growing Sales Opportunities",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "72f07802-cb41-4f21-8c33-8ab0ff82cd6d",
+          "Name": "Building Relationships",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "2c9a45a0-40c4-46ff-88ff-f980df28f7bf",
+          "Name": "Referrals and Testimonials",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "2663d37a-bfee-45c2-a652-c20e55fa2336",
+          "Name": "Crossselling and Upselling",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "30ff6f3c-6428-4605-9024-f0f096e382b3",
+          "Name": "Value Creation",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "a7e52ae3-346e-476f-932f-0cb85c768d83",
+          "Name": "Key Account Management",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "42ecbd1b-ccaf-465d-b3bb-bf6c0481b075",
+          "Name": "Commercial Awareness",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "693d45a1-3dcd-4671-93c3-7da6f83a3cb3",
+      "Name": "Developing Yourself",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "24bf974f-9b65-4166-9b86-d1b36b0d047e",
+          "Name": "Personal Development Plans",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "f23df397-b0dc-4265-82c6-c50d40c3e5bd",
+          "Name": "How to become an SME (Subject Matter Expert)",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "cc00c1b8-8b88-4181-95d1-153084b91c1a",
+          "Name": "Goalsetting",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "77dca676-afb4-4077-a9a1-df3b4dc69381",
+          "Name": "Giving Back",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "4a87d3c9-e2c7-4aab-9e58-49415de46c8f",
+      "Name": "Sales Leadership",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "de842206-90a6-461e-9a03-377938637ca7",
+          "Name": "Sales Planning",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "515f4621-604b-497a-a90c-e2895bcaa341",
+          "Name": "Sales Strategy",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "a5dfdfb7-b4ac-486e-a188-894cd76c1999",
+          "Name": "Sales Management",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "88d9c63c-8f2f-425e-85ed-866bb7c36b49",
+          "Name": "Sales Maturity Modelling",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "28b07224-cac6-4d4c-a95b-16805549f277",
+          "Name": "Sales Improvement Planning",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "aac2abcf-43ff-4552-b14b-0603d6a4ea9c",
+          "Name": "Sales Training",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "c7ccb57e-1ddf-40a7-ae5b-0dd4a665a1a6",
+          "Name": "Sales Coaching",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "6c71d2a1-88ae-44f2-b847-56c387451820",
+          "Name": "Sales Playbooks",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
