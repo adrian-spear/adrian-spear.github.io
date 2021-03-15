@@ -15,5 +15,39 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "35ec4574-8fab-4e43-a1c3-d0a53d6cab25",
+    "Title": "Perfect Prospect Profiles",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "b27b4b85-1b6c-498f-b3fe-f8972a72c4f4",
+    "AudienceId": "e63f2a61-93a3-4062-a2d2-44861514501a",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "cff40d16-3f55-4cd3-8787-9a6a742d2d0c",
+    "Description": "Create a targeted profile based on what your perfect prospect looks like.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "587a565b-9d80-43cb-b9fb-8c136cea52e9",
+    "Title": "Sales Messaging",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "5804dac9-2958-4b51-a03d-0d9f612660c7",
+    "Description": "Discover the words that resonate with your prospect to comunicate your value proposition.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
