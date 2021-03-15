@@ -163,6 +163,79 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "44c0500c-eda7-4273-a445-27c42bb0f2e1",
+      "Name": "Klozing Sales Opportunities",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "7254d5da-cdb2-4be9-a0f3-42c7b4d55e95",
+          "Name": "Controlling the Sales Conversation",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "c377d803-6cb1-4c96-9e42-d440045e416b",
+          "Name": "Advanced Questioning Skills",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "763ecc54-0918-4793-aa0c-436f77486e33",
+          "Name": "Whiteboard Selling",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "895439f0-a9e8-49ec-a498-a8176e0cec84",
+          "Name": "Daily Sales Discipline",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "be6cd59e-9a06-4e8d-982c-f16c24fdd6d5",
+          "Name": "Consultative Selling Skills",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "31fdbe47-5525-488f-9f17-394907321911",
+          "Name": "Root Cause Analysis",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "71382ab4-8a1c-43eb-a8ea-e9d0a82e9774",
+          "Name": "Negotiating Skills",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
