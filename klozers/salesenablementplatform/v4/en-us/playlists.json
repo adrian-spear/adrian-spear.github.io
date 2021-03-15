@@ -83,5 +83,39 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "fe8b60db-dda2-430d-beeb-9c61435aa12d",
+    "Title": "Handling Stalls and Objections",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "b27b4b85-1b6c-498f-b3fe-f8972a72c4f4",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "597b0b84-e8a1-4a23-805a-ae54bc4bdd07",
+    "Description": "Discover the most productive way to handle stalls and objections and keep the sales process moving forward.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "782bc827-e369-427e-8807-bca953f211d8",
+    "Title": "Handling Stalls and Objections",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "b27b4b85-1b6c-498f-b3fe-f8972a72c4f4",
+    "AudienceId": "3a208585-de10-498d-9170-c253a72cc579",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "597b0b84-e8a1-4a23-805a-ae54bc4bdd07",
+    "Description": "Discover the most productive way to handle stalls and objections and keep the sales process moving forward.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
