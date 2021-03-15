@@ -49,5 +49,22 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "97d49b8b-0e98-4618-aef2-fe8715af4ae5",
+    "Title": "Inbound Sales Campaigns",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "6eb6d190-1376-486f-bdd1-0afc54d4f37e",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "e807a5f1-d5fa-4116-8cce-c56e7edd835f",
+    "Description": "Design powerful inbound sales campaigns to create a constant flow of inbound leads.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
