@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "7c067831-6e3d-46fa-8864-9d20779dbf68",
+    "Title": "Understanding Sales",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "b27b4b85-1b6c-498f-b3fe-f8972a72c4f4",
+    "AudienceId": "e63f2a61-93a3-4062-a2d2-44861514501a",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "3029baf6-93f7-47b0-9043-6dbd9ef82699",
+    "Description": "Discover how sales really works from the buyers perspective so you can align yourself with them from the very start.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "f3cf204f-6386-46be-8f37-d247e31c53aa"
+    ]
+  }
+]

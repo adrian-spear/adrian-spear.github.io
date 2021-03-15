@@ -1,0 +1,251 @@
+{
+  "Technologies": [
+    {
+      "Id": "a360a7ef-97c3-4693-830d-d6b23e004c0a",
+      "Name": "Microsoft OneNote",
+      "Subjects": [
+        {
+          "Id": "c52b0aa9-4414-4bfe-ba0e-d0c05216879b",
+          "Name": "Personal Productivity"
+        },
+        {
+          "Id": "4f61da22-1fbb-41a4-b01c-d47ac98371cd",
+          "Name": "Integrate with Outlook"
+        },
+        {
+          "Id": "d9c9ba16-95ee-45c3-9896-6111b37ca305",
+          "Name": "Integrate with Teams"
+        }
+      ]
+    },
+    {
+      "Id": "f7e73b24-3f83-445e-8f5a-5a3b20755636",
+      "Name": "Microsoft Teams",
+      "Subjects": [
+        {
+          "Id": "1887e317-780b-4d62-ba87-12534f2bddf2",
+          "Name": "Personal Branding with Teams"
+        },
+        {
+          "Id": "d5eaedf4-5049-4321-b51c-52c91e5e29ba",
+          "Name": "Teams Live Events"
+        }
+      ]
+    },
+    {
+      "Id": "6eb6d190-1376-486f-bdd1-0afc54d4f37e",
+      "Name": "LinkedIn",
+      "Subjects": [
+        {
+          "Id": "18244d35-5323-475c-a2bf-137aa010aa49",
+          "Name": "Personal Profiles"
+        },
+        {
+          "Id": "aa77ab5a-5ea7-42df-8d84-87b3ec86dce0",
+          "Name": "LinkedIn Events"
+        }
+      ]
+    },
+    {
+      "Id": "5b40ee66-2ec5-462c-89d9-44857e1ebe92",
+      "Name": "LinkedIn Sales Navigator",
+      "Subjects": [
+        {
+          "Id": "79aa63dc-6624-4f90-a430-78cbeda1c77c",
+          "Name": "Researching Prospects"
+        }
+      ]
+    },
+    {
+      "Id": "afae70c6-e2fc-4b33-afc8-2e25d5be2bf0",
+      "Name": "Snov",
+      "Subjects": [
+        {
+          "Id": "76ca2d0d-f1eb-4a7e-a0e1-ed7ec7dfcd92",
+          "Name": "Campaign Setup"
+        },
+        {
+          "Id": "c5f9d337-82a0-4677-aa51-3f9801d59a44",
+          "Name": "Campaign Execution"
+        }
+      ]
+    },
+    {
+      "Id": "f9685207-ce1f-4958-85a7-7743e81534f3",
+      "Name": "Prospectin",
+      "Subjects": [
+        {
+          "Id": "d1a839f7-351a-451b-a8ea-5bfb3819ba2f",
+          "Name": "Connecting to your Audience"
+        }
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "3029baf6-93f7-47b0-9043-6dbd9ef82699",
+      "Name": "Finding Sales Opportunities",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "d647c6fd-b4c0-4758-b399-8ae80adb8611",
+          "Name": "Understanding Sales",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "cff40d16-3f55-4cd3-8787-9a6a742d2d0c",
+          "Name": "Perfect Prospect Profiles",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "5804dac9-2958-4b51-a03d-0d9f612660c7",
+          "Name": "Sales Messaging",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "e807a5f1-d5fa-4116-8cce-c56e7edd835f",
+          "Name": "Inbound Sales Campaigns",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "0d30579a-d295-4363-8978-216d07d654eb",
+          "Name": "Outbound Sales Campaigns",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "6130f6f4-ef1f-42d6-acc3-a3a96e0f6e10",
+          "Name": "Building a Target Audience",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "597b0b84-e8a1-4a23-805a-ae54bc4bdd07",
+          "Name": "Handling Stalls and Objections",
+          "Image": "images/categories/subCategoryA.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "83d6b9b0-0a39-44c9-b27a-ffeb5b336e4b",
+          "Name": "Telesales Training",
+          "Image": "images/categories/subCategoryB.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "4dbbb881-0fa9-426a-b931-86290acb1379",
+      "Name": ""
+    },
+    {
+      "Id": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+      "Name": "Sales Leadership"
+    },
+    {
+      "Id": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+      "Name": "Account Managers"
+    },
+    {
+      "Id": "3a208585-de10-498d-9170-c253a72cc579",
+      "Name": "Business Development Managers"
+    },
+    {
+      "Id": "784d0518-fb4e-4900-8e7c-703ca8e27c69",
+      "Name": "Account Executives"
+    },
+    {
+      "Id": "93a9d518-5aa8-4fb0-a21a-45b44fe1545c",
+      "Name": "Sales Development Representatives"
+    },
+    {
+      "Id": "e63f2a61-93a3-4062-a2d2-44861514501a",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    "SourceA",
+    "SourceB"
+  ],
+  "Levels": [
+    {
+      "Id": "b27b4b85-1b6c-498f-b3fe-f8972a72c4f4",
+      "Name": "Low"
+    },
+    {
+      "Id": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+      "Name": "Medium"
+    },
+    {
+      "Id": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+      "Name": "High"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+      "Name": "New"
+    },
+    {
+      "Id": "8da4a929-8b8d-4a64-9d64-61284a4f88f6",
+      "Name": "Updated"
+    },
+    {
+      "Id": "9286e9a8-2b08-4c84-b4ca-94d85d38aa1f",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "c4957350-f649-42b3-98d6-9372ddf637cf",
+      "Name": "Retired"
+    },
+    {
+      "Id": "ba840073-87df-4350-9089-95ea612919c7",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "047c0dd7-6be2-4204-a87d-82f34cfb70c1"
+  },
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com"
+  ]
+}
