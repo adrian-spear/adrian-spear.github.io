@@ -66,5 +66,22 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "fae12f08-708e-45e6-aeca-d8efce37eed5",
+    "Title": "Outbound Sales Campaigns",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "5b40ee66-2ec5-462c-89d9-44857e1ebe92",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "0d30579a-d295-4363-8978-216d07d654eb",
+    "Description": "Create an outbound sales strategy targeting a prequalified list of prospects.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
