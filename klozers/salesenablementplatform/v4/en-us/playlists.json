@@ -610,5 +610,56 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "5abfb64b-6702-408a-8f6f-00d74eb6e162",
+    "Title": "Key Account Management",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "6d1dfc07-2685-4a84-9bad-3ad1af1c72b5",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "a7e52ae3-346e-476f-932f-0cb85c768d83",
+    "Description": "Design your own bespoke account management plans to lock in your profits and lock out the competition.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "9f872b0a-d347-4ebe-9acc-bac196f5de32",
+    "Title": "Key Account Management",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "6d1dfc07-2685-4a84-9bad-3ad1af1c72b5",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "a7e52ae3-346e-476f-932f-0cb85c768d83",
+    "Description": "Design your own bespoke account management plans to lock in your profits and lock out the competition.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "e7f417d5-bada-4b00-a2dd-3660ef02e11a",
+    "Title": "Key Account Management",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "784d0518-fb4e-4900-8e7c-703ca8e27c69",
+    "TechnologyId": "6d1dfc07-2685-4a84-9bad-3ad1af1c72b5",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "a7e52ae3-346e-476f-932f-0cb85c768d83",
+    "Description": "Design your own bespoke account management plans to lock in your profits and lock out the competition.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
