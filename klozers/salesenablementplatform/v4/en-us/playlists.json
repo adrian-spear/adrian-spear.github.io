@@ -236,5 +236,73 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "1044a454-bc83-4085-ad2e-c41363bff56d",
+    "Title": "Advanced Questioning Skills",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "c377d803-6cb1-4c96-9e42-d440045e416b",
+    "Description": "Create your own Root cause analysis tool to undecover the real business pain behind every sales conversation.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "4f89ab2a-325d-445e-a8c0-3d9aec1d4775",
+    "Title": "Advanced Questioning Skills",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "763ecc54-0918-4793-aa0c-436f77486e33",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "c377d803-6cb1-4c96-9e42-d440045e416b",
+    "Description": "Create your own Root cause analysis tool to undecover the real business pain behind every sales conversation.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "7532b9f3-d1a2-427e-9beb-f7ac6b74579f",
+    "Title": "Advanced Questioning Skills",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "895439f0-a9e8-49ec-a498-a8176e0cec84",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "c377d803-6cb1-4c96-9e42-d440045e416b",
+    "Description": "Create your own Root cause analysis tool to undecover the real business pain behind every sales conversation.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "aaf387e3-b3de-48d6-b01e-a46247eff555",
+    "Title": "Advanced Questioning Skills",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "be6cd59e-9a06-4e8d-982c-f16c24fdd6d5",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "c377d803-6cb1-4c96-9e42-d440045e416b",
+    "Description": "Create your own Root cause analysis tool to undecover the real business pain behind every sales conversation.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
