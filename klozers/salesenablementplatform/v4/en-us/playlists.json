@@ -1035,5 +1035,73 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "aacaccf3-5360-4d54-bf27-98f4e5242289",
+    "Title": "Sales Coaching",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "f7e73b24-3f83-445e-8f5a-5a3b20755636",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "c7ccb57e-1ddf-40a7-ae5b-0dd4a665a1a6",
+    "Description": "Coaching - the most powerful tool every manager has.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "79f465f6-aa2d-475b-97ba-46c9cca0f8ae",
+    "Title": "Sales Coaching",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "f7e73b24-3f83-445e-8f5a-5a3b20755636",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "c7ccb57e-1ddf-40a7-ae5b-0dd4a665a1a6",
+    "Description": "Coaching - the most powerful tool every manager has.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "76f2c7c1-9774-4021-8d58-5a7f6a50229e",
+    "Title": "Sales Playbooks",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "f7e73b24-3f83-445e-8f5a-5a3b20755636",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "6c71d2a1-88ae-44f2-b847-56c387451820",
+    "Description": "How to create a repeatable and scaleable sales team.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "07312d79-cba3-434f-9614-6dd99df66b6e",
+    "Title": "Sales Playbooks",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "f7e73b24-3f83-445e-8f5a-5a3b20755636",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "6c71d2a1-88ae-44f2-b847-56c387451820",
+    "Description": "How to create a repeatable and scaleable sales team.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
