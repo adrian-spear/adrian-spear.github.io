@@ -321,5 +321,56 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "6dc14ed2-de57-435a-ae0c-deff2fc33907",
+    "Title": "Whiteboard Selling",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "3a208585-de10-498d-9170-c253a72cc579",
+    "TechnologyId": "cee359f4-2ff7-41c0-8176-17d3feb8bb03",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "763ecc54-0918-4793-aa0c-436f77486e33",
+    "Description": "The best way to present any solution in it's simplest form that prospects love.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "62992e0e-67ef-45f0-9ab0-ec01803f0425",
+    "Title": "Whiteboard Selling",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "784d0518-fb4e-4900-8e7c-703ca8e27c69",
+    "TechnologyId": "cee359f4-2ff7-41c0-8176-17d3feb8bb03",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "763ecc54-0918-4793-aa0c-436f77486e33",
+    "Description": "The best way to present any solution in it's simplest form that prospects love.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "79d84de6-6962-49c9-ad5f-bcc20c5c573a",
+    "Title": "Whiteboard Selling",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "93a9d518-5aa8-4fb0-a21a-45b44fe1545c",
+    "TechnologyId": "cee359f4-2ff7-41c0-8176-17d3feb8bb03",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "763ecc54-0918-4793-aa0c-436f77486e33",
+    "Description": "The best way to present any solution in it's simplest form that prospects love.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
