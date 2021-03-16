@@ -219,5 +219,22 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "ab401bb6-374d-4f2b-817e-1b99fc32fd16",
+    "Title": "Controlling the Sales Conversation",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "e63f2a61-93a3-4062-a2d2-44861514501a",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "7254d5da-cdb2-4be9-a0f3-42c7b4d55e95",
+    "Description": "Learn the essential components of preparing for any sales conversation in order to achieve your objectives.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
