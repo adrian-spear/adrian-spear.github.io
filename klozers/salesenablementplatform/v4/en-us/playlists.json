@@ -372,5 +372,22 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "9c5594ca-0f7b-4689-bf3b-72718d7c5d1b",
+    "Title": "Daily Sales Discipline",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "e63f2a61-93a3-4062-a2d2-44861514501a",
+    "TechnologyId": "a360a7ef-97c3-4693-830d-d6b23e004c0a",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "895439f0-a9e8-49ec-a498-a8176e0cec84",
+    "Description": "Mentally preparing yourself to get the most from every day.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
