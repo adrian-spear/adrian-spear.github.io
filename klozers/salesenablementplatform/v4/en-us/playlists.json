@@ -780,5 +780,56 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "ba3adce6-4d1c-4b67-a5bd-622ff969f798",
+    "Title": "How to become an SME (Subject Matter Expert)",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "e63f2a61-93a3-4062-a2d2-44861514501a",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "f23df397-b0dc-4265-82c6-c50d40c3e5bd",
+    "Description": "Discover a simple formula  to help you become a subject matter expert in any industry.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "767dadf9-49fd-4f63-b0ec-f4c9e766cd46",
+    "Title": "Goal Setting",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "e63f2a61-93a3-4062-a2d2-44861514501a",
+    "TechnologyId": "6d1dfc07-2685-4a84-9bad-3ad1af1c72b5",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "cc00c1b8-8b88-4181-95d1-153084b91c1a",
+    "Description": "Set powerful goals that chart your path to success.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "5b69686d-9c0f-41ef-a486-cd5548cc6a28",
+    "Title": "Giving Back",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "b27b4b85-1b6c-498f-b3fe-f8972a72c4f4",
+    "AudienceId": "e63f2a61-93a3-4062-a2d2-44861514501a",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "77dca676-afb4-4077-a9a1-df3b4dc69381",
+    "Description": "If you want to receive more give more - the power of Emersons 'Law of Compensation'.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
