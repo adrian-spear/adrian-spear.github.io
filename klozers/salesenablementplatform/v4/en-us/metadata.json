@@ -85,7 +85,7 @@
     {
       "Id": "3029baf6-93f7-47b0-9043-6dbd9ef82699",
       "Name": "Finding Sales Opportunities",
-      "Image": "",
+      "Image": "images/klozers280x200.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
@@ -93,7 +93,7 @@
         {
           "Id": "d647c6fd-b4c0-4758-b399-8ae80adb8611",
           "Name": "Understanding Sales",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -102,7 +102,7 @@
         {
           "Id": "cff40d16-3f55-4cd3-8787-9a6a742d2d0c",
           "Name": "Perfect Prospect Profiles",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -111,7 +111,7 @@
         {
           "Id": "5804dac9-2958-4b51-a03d-0d9f612660c7",
           "Name": "Sales Messaging",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -120,7 +120,7 @@
         {
           "Id": "e807a5f1-d5fa-4116-8cce-c56e7edd835f",
           "Name": "Inbound Sales Campaigns",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -129,7 +129,7 @@
         {
           "Id": "0d30579a-d295-4363-8978-216d07d654eb",
           "Name": "Outbound Sales Campaigns",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -138,7 +138,7 @@
         {
           "Id": "6130f6f4-ef1f-42d6-acc3-a3a96e0f6e10",
           "Name": "Building a Target Audience",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -147,7 +147,7 @@
         {
           "Id": "597b0b84-e8a1-4a23-805a-ae54bc4bdd07",
           "Name": "Handling Stalls and Objections",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -156,7 +156,7 @@
         {
           "Id": "83d6b9b0-0a39-44c9-b27a-ffeb5b336e4b",
           "Name": "Telesales Training",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -167,7 +167,7 @@
     {
       "Id": "44c0500c-eda7-4273-a445-27c42bb0f2e1",
       "Name": "Klozing Sales Opportunities",
-      "Image": "",
+      "Image": "images/klozers280x200.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
@@ -175,7 +175,7 @@
         {
           "Id": "7254d5da-cdb2-4be9-a0f3-42c7b4d55e95",
           "Name": "Controlling the Sales Conversation",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -184,7 +184,7 @@
         {
           "Id": "c377d803-6cb1-4c96-9e42-d440045e416b",
           "Name": "Advanced Questioning Skills",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -193,7 +193,7 @@
         {
           "Id": "763ecc54-0918-4793-aa0c-436f77486e33",
           "Name": "Whiteboard Selling",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -202,7 +202,7 @@
         {
           "Id": "895439f0-a9e8-49ec-a498-a8176e0cec84",
           "Name": "Daily Sales Discipline",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -211,7 +211,7 @@
         {
           "Id": "be6cd59e-9a06-4e8d-982c-f16c24fdd6d5",
           "Name": "Consultative Selling Skills",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -220,7 +220,7 @@
         {
           "Id": "31fdbe47-5525-488f-9f17-394907321911",
           "Name": "Root Cause Analysis",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -229,7 +229,7 @@
         {
           "Id": "71382ab4-8a1c-43eb-a8ea-e9d0a82e9774",
           "Name": "Negotiating Skills",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -240,7 +240,7 @@
     {
       "Id": "f4052160-8cb6-47ea-81bd-9a6d5cb44519",
       "Name": "Growing Sales Opportunities",
-      "Image": "",
+      "Image": "images/klozers280x200.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
@@ -248,7 +248,7 @@
         {
           "Id": "72f07802-cb41-4f21-8c33-8ab0ff82cd6d",
           "Name": "Building Relationships",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -257,7 +257,7 @@
         {
           "Id": "2c9a45a0-40c4-46ff-88ff-f980df28f7bf",
           "Name": "Referrals and Testimonials",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -266,7 +266,7 @@
         {
           "Id": "2663d37a-bfee-45c2-a652-c20e55fa2336",
           "Name": "Crossselling and Upselling",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -275,7 +275,7 @@
         {
           "Id": "30ff6f3c-6428-4605-9024-f0f096e382b3",
           "Name": "Value Creation",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -284,7 +284,7 @@
         {
           "Id": "a7e52ae3-346e-476f-932f-0cb85c768d83",
           "Name": "Key Account Management",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -293,7 +293,7 @@
         {
           "Id": "42ecbd1b-ccaf-465d-b3bb-bf6c0481b075",
           "Name": "Commercial Awareness",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -304,7 +304,7 @@
     {
       "Id": "693d45a1-3dcd-4671-93c3-7da6f83a3cb3",
       "Name": "Developing Yourself",
-      "Image": "",
+      "Image": "images/klozers280x200.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
@@ -312,7 +312,7 @@
         {
           "Id": "24bf974f-9b65-4166-9b86-d1b36b0d047e",
           "Name": "Personal Development Plans",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -321,7 +321,7 @@
         {
           "Id": "f23df397-b0dc-4265-82c6-c50d40c3e5bd",
           "Name": "How to become an SME (Subject Matter Expert)",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -330,7 +330,7 @@
         {
           "Id": "cc00c1b8-8b88-4181-95d1-153084b91c1a",
           "Name": "Goalsetting",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -339,7 +339,7 @@
         {
           "Id": "77dca676-afb4-4077-a9a1-df3b4dc69381",
           "Name": "Giving Back",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -350,7 +350,7 @@
     {
       "Id": "4a87d3c9-e2c7-4aab-9e58-49415de46c8f",
       "Name": "Sales Leadership",
-      "Image": "",
+      "Image": "images/klozers280x200.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
@@ -358,7 +358,7 @@
         {
           "Id": "de842206-90a6-461e-9a03-377938637ca7",
           "Name": "Sales Planning",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -367,7 +367,7 @@
         {
           "Id": "515f4621-604b-497a-a90c-e2895bcaa341",
           "Name": "Sales Strategy",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -376,7 +376,7 @@
         {
           "Id": "a5dfdfb7-b4ac-486e-a188-894cd76c1999",
           "Name": "Sales Management",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -385,7 +385,7 @@
         {
           "Id": "88d9c63c-8f2f-425e-85ed-866bb7c36b49",
           "Name": "Sales Maturity Modelling",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -394,7 +394,7 @@
         {
           "Id": "28b07224-cac6-4d4c-a95b-16805549f277",
           "Name": "Sales Improvement Planning",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -403,7 +403,7 @@
         {
           "Id": "aac2abcf-43ff-4552-b14b-0603d6a4ea9c",
           "Name": "Sales Training",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -412,7 +412,7 @@
         {
           "Id": "c7ccb57e-1ddf-40a7-ae5b-0dd4a665a1a6",
           "Name": "Sales Coaching",
-          "Image": "images/categories/subCategoryA.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -421,7 +421,7 @@
         {
           "Id": "6c71d2a1-88ae-44f2-b847-56c387451820",
           "Name": "Sales Playbooks",
-          "Image": "images/categories/subCategoryB.png",
+          "Image": "images/klozers280x200.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
