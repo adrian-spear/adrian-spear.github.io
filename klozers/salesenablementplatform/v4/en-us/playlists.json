@@ -304,5 +304,22 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "d75bd6a4-0192-477b-ba79-9140a3ffb156",
+    "Title": "Whiteboard Selling",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "4c98d0e9-6822-4a50-bd98-7dd962c416ff",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "cee359f4-2ff7-41c0-8176-17d3feb8bb03",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "763ecc54-0918-4793-aa0c-436f77486e33",
+    "Description": "The best way to present any solution in it's simplest form that prospects love.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]

@@ -79,6 +79,11 @@
           "Name": "Connecting to your Audience"
         }
       ]
+    },
+    {
+      "Id": "cee359f4-2ff7-41c0-8176-17d3feb8bb03",
+      "Name": "Microsoft Whiteboard",
+      "Subjects": []
     }
   ],
   "Categories": [
