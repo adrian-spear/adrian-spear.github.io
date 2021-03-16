@@ -933,5 +933,107 @@
     "Assets": [
       "66dd3a95-0144-47b7-a58e-565735ea79ff"
     ]
+  },
+  {
+    "Id": "29e44a82-6498-4926-b960-15a9010ca781",
+    "Title": "Sales Maturity Modelling",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "88d9c63c-8f2f-425e-85ed-866bb7c36b49",
+    "Description": "How does your organisation measure up to best in class.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "52f4d023-0e51-4700-babd-227d06538efb",
+    "Title": "Sales Maturity Modelling",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "88d9c63c-8f2f-425e-85ed-866bb7c36b49",
+    "Description": "How does your organisation measure up to best in class.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "c3b5fdaa-0d5c-4461-b028-c3edc9d40c6b",
+    "Title": "Sales Improvement Planning",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "28b07224-cac6-4d4c-a95b-16805549f277",
+    "Description": "How to create powerful sales improvement projects.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "34fbc574-d46f-44dc-9915-3af245a20a50",
+    "Title": "Sales Improvement Planning",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "28b07224-cac6-4d4c-a95b-16805549f277",
+    "Description": "How to create powerful sales improvement projects.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "14aa421b-ed92-4ced-9b93-bdb3249b8f23",
+    "Title": "Sales Training",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "66b52a0c-9ea8-4fcf-813a-baed92cb1f8e",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "aac2abcf-43ff-4552-b14b-0603d6a4ea9c",
+    "Description": "How to  train your team to sell more.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
+  },
+  {
+    "Id": "eb0d4223-106e-418e-a2b9-345021330bdc",
+    "Title": "Sales Training",
+    "Image": "images/playlists/playlistA.png",
+    "LevelId": "8b61a0f7-cc49-4d6d-a98b-82206774dd71",
+    "AudienceId": "fb3a8f0e-0abb-433f-99f6-9bbb520dedeb",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "CatId": "aac2abcf-43ff-4552-b14b-0603d6a4ea9c",
+    "Description": "How to  train your team to sell more.",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": "",
+    "Assets": [
+      "66dd3a95-0144-47b7-a58e-565735ea79ff"
+    ]
   }
 ]
