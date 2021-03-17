@@ -9,5 +9,16 @@
     "Source": "SourceA",
     "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
     "StatusNote": ""
+  },
+  {
+    "Id": "5ac6b10d-9630-4f97-8953-a850f7cf1a5e",
+    "Title": "Learning",
+    "Description": "Lorem Ipsum Asset Page Description",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/sitepages/5ac6b10d-9630-4f97-8953-a850f7cf1a5e?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
   }
 ]
