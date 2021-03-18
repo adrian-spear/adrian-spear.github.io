@@ -196,5 +196,38 @@
     "Source": "SourceA",
     "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
     "StatusNote": ""
+  },
+  {
+    "Id": "9fdc6205-72f3-48b9-ae95-66a1c5e96c14",
+    "Title": "Learning",
+    "Description": "Design your own bespoke account management plans to lock in your profits and lock out the competition.",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/SitePages/SalesEnablementPlatform/9fdc6205-72f3-48b9-ae95-66a1c5e96c14.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a11c49dc-25c0-449e-a228-da027fe8ed78",
+    "Title": "Learning",
+    "Description": "Understanding the financial strategy and drivers of every organisation.",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/SitePages/SalesEnablementPlatform/a11c49dc-25c0-449e-a228-da027fe8ed78.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0b471bad-db63-4e0e-a1da-3602fa5d8ee5",
+    "Title": "Learning",
+    "Description": "Take control of your own skills developmnt and build your own future.",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/SitePages/SalesEnablementPlatform/0b471bad-db63-4e0e-a1da-3602fa5d8ee5.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
   }
 ]
