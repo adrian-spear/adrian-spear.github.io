@@ -42,5 +42,49 @@
     "Source": "SourceA",
     "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
     "StatusNote": ""
+  },
+  {
+    "Id": "830de721-9627-43c2-9405-d394166fc5f3",
+    "Title": "Learning",
+    "Description": "Design powerful inbound sales campaigns to create a constant flow of inbound leads.",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/SitePages/SalesEnablementPlatform/830de721-9627-43c2-9405-d394166fc5f3.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9822c3ef-ecdb-4229-b378-3ff004de137c",
+    "Title": "Learning",
+    "Description": "Create an outbound sales strategy targeting a prequalified list of prospects.",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/SitePages/SalesEnablementPlatform/9822c3ef-ecdb-4229-b378-3ff004de137c.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
+  },
+  {
+    "Id": "801f369c-d524-47ee-bd62-ee6af84a1bf6",
+    "Title": "Learning",
+    "Description": "Discover the most productive way to handle stalls and objections and keep the sales process moving forward.",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/SitePages/SalesEnablementPlatform/801f369c-d524-47ee-bd62-ee6af84a1bf6.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f423eab0-f71c-4966-ada5-016675224f66",
+    "Title": "Learning",
+    "Description": "Discover the most productive way to handle stalls and objections and keep the sales process moving forward.",
+    "Url": "https://klozersgroup.sharepoint.com/sites/training/SitePages/SalesEnablementPlatform/f423eab0-f71c-4966-ada5-016675224f66.aspx?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "SourceA",
+    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
+    "StatusNote": ""
   }
 ]
