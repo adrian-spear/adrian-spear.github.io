@@ -1,16 +1,5 @@
 [
   {
-    "Id": "66dd3a95-0144-47b7-a58e-565735ea79ff",
-    "Title": "Lorem Ipsum Asset Page",
-    "Description": "Lorem Ipsum Asset Page Description",
-    "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "SourceA",
-    "StatusTagId": "bf1d2ec9-404a-41d0-b924-ac404807dcb8",
-    "StatusNote": ""
-  },
-  {
     "Id": "5ac6b10d-9630-4f97-8953-a850f7cf1a5e",
     "Title": "Learning",
     "Description": "Discover how sales really works from the buyers perspective so you can align yourself with them from the very start.",
